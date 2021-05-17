@@ -304,5 +304,3 @@ References:
 [2] Uddin, S. M. Nadim. (2019). [Intuitive Approach to Understand the Mathematics Behind GAN](https://www.researchgate.net/publication/332157589_Intuitive_Approach_to_Understand_the_Mathematics_Behind_GAN). 10.13140/RG.2.2.12650.36805.
 
 [3] Ian Goodfellow's [NIPS 2016 tutorial](https://www.youtube.com/watch?v=HGYYEUSm-0Q&t=2s) on YouTube.
-
-
