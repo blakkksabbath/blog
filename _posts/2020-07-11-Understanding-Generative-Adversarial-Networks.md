@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: "Understanding Generative Adversarial Networks"
 description: "thoughts on GANs"
-categories: [deeplearning, machinelearning]
+categories: [deeplearning]
 ---
 
 > When you create something out of nothing, it is the most thrilling thing  — Frankie Knuckles, American DJ
