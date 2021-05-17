@@ -7,7 +7,7 @@ permalink: /about/
 # About me
 
 <figure class="right">
-  <img src="images/anim_jbs.jpeg" width="200" alt="My portrait"/>
+  <img src="/images/anim_jbs.jpeg" width="200" alt="My portrait"/>
 </figure>
 
 
