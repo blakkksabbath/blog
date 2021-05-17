@@ -429,6 +429,10 @@ body { background-color: white; }
 
 .post-content p, .post-content li { color: #1f1f1f; }
 
+.post-content pre, .post-content code { background-color: #ffe1e31f; }
+
+.post-content code { padding: 0px 1px; }
+
 .language-python + .language-plaintext { border-left: 1px solid grey; margin-left: 1rem !important; }
 
 [class^="language-"]:not(.language-plaintext) pre, [class^="language-"]:not(.language-plaintext) code { background-color: #323443 !important; color: #f8f8f2; }
