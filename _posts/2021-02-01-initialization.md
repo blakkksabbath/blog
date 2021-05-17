@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weight Initialization"
+title: Weight Initialization
 description: "My notes on initializing weights"
 categories: [notes, deeplearning]
 ---
