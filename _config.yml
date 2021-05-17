@@ -6,15 +6,15 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Jithendra's blog
+description: A place where I scribble down my thoughts and notes for my future self to look back and review the material.
 github_username: jithendrabsy
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "blog"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://jithendrabsy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jithendrsy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -39,14 +39,14 @@ baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: jithendrabsy
+    github: jithendrabsy
 
 # Set this to true to get LaTeX math equation support
-use_math: 
+use_math: true
 
 # Set this to true to display the summary of your blog post under your title on the Home page.
-show_description: true
+show_description: false
 
 # Set this to true to display image previews on home page, if they exist
 show_image: false
@@ -120,6 +120,3 @@ kramdown:
 feed:
   posts_limit: 5 #default posts_limit: 10
   excerpt_only: true
-  
-exclude:
-  - settings.ini
