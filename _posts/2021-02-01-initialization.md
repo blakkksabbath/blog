@@ -2,7 +2,7 @@
 layout: post
 title: "Weight Initialization"
 description: "My notes on initializing weights"
-categories: [machinelearning, deeplearning]
+categories: [notes, deeplearning]
 ---
 
 In this article, I am writing some notes about weight initialization. 
