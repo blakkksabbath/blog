@@ -427,6 +427,6 @@ pre code { font-size: 15px !important; }
 /*----- ADD YOUR STYLES BELOW -------*/
 body { background-color: white; }
 
-.post-content p, .post-content li { color: #1f1f1f; }
+.post-content p, .post-content li { color: #1f1f1f; font-size: 90%; }
 
 /*# sourceMappingURL=style.css.map */
